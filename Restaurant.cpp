@@ -1,6 +1,6 @@
 /*
-Student Name: 
-Student Number: 
+Student Name: Fikri Cem
+Student Number: Yilmaz
 Project Number: 1
 Compile Status: [SUCCESS/FAIL]
 Running Status: [SUCCESS/FAIL]
